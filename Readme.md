@@ -14,3 +14,11 @@ Este es un repositorio de prueba creado para aprender a utilizar GitHub. Aquí s
    ```bash
    git clone https://github.com/francisco-carrion/pia01-2024.git
    ```
+3.	Navega hasta la carpeta del repositorio:
+   ```bash
+   cd pia01-2024
+   ```
+4.	Ejecuta el programa con el siguiente comando:
+   ```bash
+   python hola_mundo.py
+   ```
